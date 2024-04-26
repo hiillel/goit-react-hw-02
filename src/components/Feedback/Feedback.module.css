@@ -1,0 +1,10 @@
+.feedback_field{
+    margin-top: 20px;  
+  }
+  .feedback_title{
+    text-transform: capitalize; 
+    font-size: 700; 
+    background-color: #89ABD9;
+    margin: 2px;
+    border-radius: 3px;
+  }
